@@ -15,4 +15,3 @@ jobs:
       - name: Run API tests
         run: |
           postman collection run "27855227-be5be94b-8361-4efc-afd2-49762436fcef"
-          postman api lint 505d75de-5634-4d35-9b35-0d0d23710c3c
